@@ -2,7 +2,7 @@
 
 - Meu nome é Paulo
 
-- Estou estudando no Alura
+- Estou estudando no Alura [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem de JavaScript
 - Vou utilizar esse espaço para o compartilhamento dos meus projetos desenvolvidos
 
